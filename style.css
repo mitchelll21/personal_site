@@ -323,6 +323,31 @@ h4 {
     font-size: 18pt;
 }
 
+#malesport {
+    width: 60%;
+    height: auto;
+}
+
+#femsport {
+    width: 60%;
+    height:auto;
+}
+
+#genderclass {
+    width: 60%;
+    height: auto;
+}
+
+#likelihood {
+    width: 60%;
+    height: auto;
+}
+
+#genderlikelihood {
+    width: 60%;
+    height: auto;
+}
+
 @media screen and (min-width: 768px) {
     #pt1 {
         display: inline-block;
