@@ -20,6 +20,16 @@
     margin: 10px;
 }
 
+.qlogo {
+    box-align: center;
+    height: 30%;
+    width: 10%;
+    border-style: double;
+    border-width: thick;
+    border-color: rgb(240, 240, 255);
+    margin: 10px;
+}
+
 nav {
     font-size: 20px;
 }
@@ -323,29 +333,41 @@ h4 {
     font-size: 18pt;
 }
 
+h3{
+    font-size: 20pt;
+}
+
 #malesport {
-    width: 60%;
-    height: auto;
+    width: 55%;
 }
 
 #femsport {
-    width: 60%;
-    height:auto;
+    width: 55%;
 }
 
+
 #genderclass {
-    width: 60%;
+    width: 55%;
     height: auto;
 }
 
 #likelihood {
-    width: 60%;
+    width: 70%;
     height: auto;
 }
 
 #genderlikelihood {
-    width: 60%;
+    width: 55%;
     height: auto;
+}
+
+#coachsns {
+    width: 55%;
+    height: auto;
+}
+
+.qpictures {
+    text-align: center;
 }
 
 @media screen and (min-width: 768px) {
