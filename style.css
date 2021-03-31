@@ -32,7 +32,6 @@
 
 nav {
     font-size: 20px;
-    color:rgb(236, 228, 232);
 }
 
 button {
@@ -304,11 +303,14 @@ form {
     background-color: rgb(170, 147, 160);
     padding: 1em;
     text-align: center;
+    color: rgb(240, 240, 255);
+    font-style: bold;
     
 }
 
 .men_2 {
-    color: rgb(240, 240, 255)
+    color: rgb(240, 240, 255);
+    font-style: bold;
 }
 
 .men_2:visited {
