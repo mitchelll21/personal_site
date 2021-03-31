@@ -40,7 +40,7 @@ button {
 }
 
 button:hover {
-    background-color: rgb(39, 0, 24);
+    background-color: rgb(214, 44, 149);
 }
 
 
@@ -315,7 +315,7 @@ form {
 }
 
 .pro-link {
-    color: rgb(99, 27, 77)
+    color: rgb(238, 120, 203)
 }
 
 .pro-link:visited {
