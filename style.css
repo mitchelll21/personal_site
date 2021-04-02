@@ -37,6 +37,7 @@ nav {
 button {
     background-color: rgb(99, 27, 77);
     padding: 12px 24px;
+    color:rgb(240, 240, 255);
 }
 
 button:hover {
