@@ -222,7 +222,7 @@ th, tr, td {
 
 thead {
     font-size: 25px;
-    background-color: rgb(170, 147, 160);
+    background-color: rgb(231, 170, 205)
     color: rgb(12, 0, 7);
 }
 
@@ -319,7 +319,7 @@ form {
 }
 
 .pro-link {
-    color: rgb(238, 120, 203)
+    color: rgb(114, 63, 99)
 }
 
 .pro-link:visited {
